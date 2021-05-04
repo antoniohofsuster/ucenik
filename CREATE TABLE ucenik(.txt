@@ -1,0 +1,6 @@
+CREATE TABLE ucenik(
+sifra INT PRIMARY KEY,
+ime VARCHAR(20),
+smjer VARCHAR(20),
+
+);
